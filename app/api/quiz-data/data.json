@@ -1,0 +1,74 @@
+{
+  "quiz": {
+    "title": "Sample Quiz",
+    "description": "Test your knowledge with this sample quiz!",
+    "questions": [
+      {
+        "question": "Who is he?",
+        "question_img": "https://i.pinimg.com/1200x/ed/f2/fe/edf2fee9fff7d0ebbb5a44c4ea9df921.jpg",
+        "options": ["bartolomeo", "kurina", "king", "dragon"],
+        "correctAnswer": "bartolomeo"
+      },
+      {
+        "question": "In Dragon Ball Z, which character is known for his signature attack, the Kamehameha?",
+        "options": ["Vegeta", "Gohan", "Vegito", "Goku"],
+        "correctAnswer": "Goku"
+      },
+      {
+        "question": "Who is the main character in the anime 'One Piece' and the captain of the Straw Hat Pirates?",
+        "options": ["Monkey D Luffy", "Zoro", "Sanji", "Shanks"],
+        "correctAnswer": "Monkey D Luffy"
+      },
+      {
+        "question": " What is the name of the fictional world in the anime 'Attack on Titan'?",
+        "options": [
+          " Paradis Island",
+          "Laugh Tale",
+          "Wano Country",
+          "Dressrosa "
+        ],
+        "correctAnswer": " Paradis Island"
+      },
+      {
+        "question": "In Death Note, what name is written in the titular notebook by its protagonist, Light Yagami?",
+        "options": [
+          "Criminals' names",
+          "His Name",
+          "Death Name",
+          "His Father's Name"
+        ],
+        "correctAnswer": "Criminals' names"
+      },
+      {
+        "question": " Which Studio Ghibli film is often referred to as the Spiritual Sister of My Neighbor Totoro",
+        "options": ["Grave of the Fireflies", "IDK", "IDK", "IDK"],
+        "correctAnswer": "Grave of the Fireflies"
+      },
+      {
+        "question": "Who is the creator of the popular anime 'Neon Genesis Evangelion'?",
+        "options": [
+          " Hideaki Anno",
+          "Hayao Miyazaki",
+          "Mamoru Oshii",
+          " Satoshi Kon"
+        ],
+        "correctAnswer": "Hideaki Anno"
+      },
+      {
+        "question": "What is the largest sea in One Piece?",
+        "options": ["East Blue", "All Blue", "West Blue", "South Blue"],
+        "correctAnswer": "Skin"
+      },
+      {
+        "question": "Which anime is known as Father of Big3",
+        "options": ["DBZ", "One Piece", "Naruto", "Bleach"],
+        "correctAnswer": "DBZ"
+      },
+      {
+        "question": "In Which year did the first episode of One Piece air?",
+        "options": ["1999", "1907", "1923", "1915"],
+        "correctAnswer": "1999"
+      }
+    ]
+  }
+}
